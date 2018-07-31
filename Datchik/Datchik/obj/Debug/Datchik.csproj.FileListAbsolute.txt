@@ -1,0 +1,62 @@
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Datchik.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\obj\Debug\Datchik.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\obj\Debug\Datchik.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\obj\Debug\Datchik.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\obj\Debug\Datchik.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Datchik.exe
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Datchik.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\kayChart.dll
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Tao.Platform.Windows.dll
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Tao.OpenGl.dll
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Tao.Platform.Windows.xml
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\Tao.OpenGl.xml
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\obj\Debug\Datchik.exe
+c:\users\pc\documents\visual studio 2015\Projects\Datchik\Datchik\obj\Debug\Datchik.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\Datchik\Datchik\bin\Debug\alglibnet2.dll
+G:\skywalk\Datchik\Datchik\bin\Debug\Datchik.exe.config
+G:\skywalk\Datchik\Datchik\bin\Debug\Datchik.exe
+G:\skywalk\Datchik\Datchik\bin\Debug\Datchik.pdb
+G:\skywalk\Datchik\Datchik\bin\Debug\alglibnet2.dll
+G:\skywalk\Datchik\Datchik\bin\Debug\kayChart.dll
+G:\skywalk\Datchik\Datchik\bin\Debug\Tao.OpenGl.dll
+G:\skywalk\Datchik\Datchik\bin\Debug\Tao.Platform.Windows.xml
+G:\skywalk\Datchik\Datchik\bin\Debug\Tao.OpenGl.xml
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.csprojResolveAssemblyReference.cache
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.Form1.resources
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.Properties.Resources.resources
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.csproj.GenerateResource.Cache
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.csproj.CoreCompileInputs.cache
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.exe
+G:\skywalk\Datchik\Datchik\obj\Debug\Datchik.pdb
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\Datchik.exe.config
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\Datchik.exe
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\Datchik.pdb
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\alglibnet2.dll
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\kayChart.dll
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\Tao.OpenGl.dll
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\PC\Desktop\Datchik\Datchik\bin\Debug\Tao.OpenGl.xml
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.Form1.resources
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.Properties.Resources.resources
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.csproj.CopyComplete
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.exe
+C:\Users\PC\Desktop\Datchik\Datchik\obj\Debug\Datchik.pdb
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\Datchik.exe.config
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\Datchik.exe
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\Datchik.pdb
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\alglibnet2.dll
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\kayChart.dll
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\Tao.OpenGl.dll
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\bin\Debug\Tao.OpenGl.xml
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.Form1.resources
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.Properties.Resources.resources
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.csproj.CopyComplete
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.exe
+C:\Users\PC\Desktop\запаска моих проектов\Datchik\Datchik\obj\Debug\Datchik.pdb
